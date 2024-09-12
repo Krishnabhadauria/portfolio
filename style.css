@@ -472,10 +472,6 @@ html {
     padding-right: 4%;
   }
 
-  .pageLinks {
-    display: none;
-  }
-
   .about {
     flex-direction: column;
   }
